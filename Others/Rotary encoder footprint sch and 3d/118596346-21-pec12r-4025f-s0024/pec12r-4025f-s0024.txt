@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-18112016-086383";"";
+"REFERENCE";"PEC12R-4025F-S0024";"";
+"TraceParts.PartTitle";"PEC12R 12mm Incremental encoder 24 pulse";"";
+"TraceParts.InstanceId";"10-18112016-0863836SMH34XFBO60QZUYIJ3LLE8LC";"";
+"DESIGN";"PEC12R 12mm Incremental encoder 24 pulse";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:10-18112016-086383";"";

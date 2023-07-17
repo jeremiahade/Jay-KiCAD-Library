@@ -1,0 +1,12 @@
+(module Polarity_Arrow (layer F.Cu) (tedit 60E9CC9D)
+  (fp_text reference REF** (at 0 -1.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Polarity_Arrow (at 0 -2.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 0) (end 0 -1) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0 -1) (end 1 0) (layer F.SilkS) (width 0.12))
+  (fp_line (start 1 0) (end 0 1) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0 1) (end 0 0) (layer F.SilkS) (width 0.12))
+)

@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Crystal
+#
+DEF Crystal X 0 40 Y Y 1 F N
+F0 "X" -80 -40 50 H V C CNN
+F1 "Crystal" -60 -250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -100 -20 -200 0 1 0 f
+P 2 0 1 0 0 -100 0 -200 N
+P 3 0 1 0 -100 -100 -100 -200 -100 -150 N
+X ~ 1 -200 -150 100 R 50 50 1 1 I
+X ~ 2 100 -150 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

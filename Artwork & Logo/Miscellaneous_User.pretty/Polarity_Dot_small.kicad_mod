@@ -1,0 +1,11 @@
+(module Polarity_Dot_small (layer F.Cu) (tedit 60E9C8C0)
+  (fp_text reference REF** (at 0 -1.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Polarity_Dot_small (at 0 -2.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user . (at 0 -0.4) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+)
